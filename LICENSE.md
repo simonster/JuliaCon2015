@@ -1,0 +1,1 @@
+I, Simon Kornblith, grant permission for MIT to distribute these files under the [Creative Commons CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/)
